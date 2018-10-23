@@ -79,7 +79,7 @@ setup(
         'Programming Language :: Python :: 3.6',
     ],
     packages=['hl7apy', 'hl7apy.v2_2', 'hl7apy.v2_3', 'hl7apy.v2_3_1', 'hl7apy.v2_4',
-              'hl7apy.v2_5', 'hl7apy.v2_5_1', 'hl7apy.v2_6'],
+              'hl7apy.v2_5', 'hl7apy.v2_5_1', 'hl7apy.v2_6', 'hl7apy.v2_7'],
     scripts=['utils/hl7apy_profile_parser'],
     test_suite='tests',
 )
